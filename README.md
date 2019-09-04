@@ -5,7 +5,7 @@
 
 ## compile typescript file
     $ tsc <file_name>
-    $ e.g. tsc index.tsc
+    e.g. tsc index.tsc
     
     above command creates index.js file
 
