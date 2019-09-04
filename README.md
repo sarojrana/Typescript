@@ -1,15 +1,17 @@
-#install typescript globally
-    npm install -g typescript
+# Typescript Usage Example
 
-#compile typescript file
-    tsc <file_name>
+## install typescript globally
+    $ npm install -g typescript
 
-    e.g. tsc index.tsc
+## compile typescript file
+    $ tsc <file_name>
+    $ e.g. tsc index.tsc
+    
     above command creates index.js file
 
-#open html file in browser
+## open html file in browser
 
-#copyright/sources
+## copyright/sources
     for style, css framework bootstrap has been used from https://getbootstrap.com/
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
